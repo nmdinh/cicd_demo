@@ -3,8 +3,8 @@ os:
 
 matrix:
         include:
-                dist: trusty
-                dist: xenial
+                - dist: trusty
+                - dist: xenial
 
 language: python
 
